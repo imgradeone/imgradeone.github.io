@@ -1,0 +1,4 @@
+version="1.0-PreTest6";
+content="测试更新";
+directdl="https://github.com/imgradeone/ToolbReleases/releases/download/v1.0-PreTest6/Toolb.apk";
+extralink="https://imgradeone.cowtransfer.com/s/e6cf0c4b20bd41";
