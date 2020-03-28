@@ -1,12 +1,12 @@
 /*
-	Fractal by HTML5 UP
+	Photon by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 /* Header */
 
-	body.is-preload #header .content {
+	body.is-preload #header .inner {
 		-moz-transform: none;
 		-webkit-transform: none;
 		-ms-transform: none;
@@ -14,14 +14,14 @@
 		opacity: 1;
 	}
 
-	body.is-preload #header .image {
-		-moz-transform: none;
-		-webkit-transform: none;
-		-ms-transform: none;
-		transform: none;
-		opacity: 1;
-	}
-
-		body.is-preload #header .image img {
+		body.is-preload #header .inner .actions {
+			-moz-transform: none;
+			-webkit-transform: none;
+			-ms-transform: none;
+			transform: none;
 			opacity: 1;
 		}
+
+	body.is-preload #header:after {
+		opacity: 0;
+	}
