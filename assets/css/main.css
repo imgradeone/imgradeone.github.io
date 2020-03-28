@@ -98,7 +98,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #666;
-		font-family: "微软雅黑", Helvetica, sans-serif;
+		font-family: "Microsoft YaHei",-apple-system,"PingFang SC","微软雅黑", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
@@ -109,14 +109,14 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px #666;
+		border-bottom: dotted 1px #c03b75;
 		color: inherit;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: #6bd4c8;
+			color: #fa4694;
 		}
 
 	strong, b {
@@ -2916,7 +2916,7 @@ input, select, textarea {
 		background-color: #fa529b;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #fa4694 5%, #fa82b6);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #00ccff 10%, #0080ff 30%, #9e3dfe 60%, #fa4694);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -2976,7 +2976,7 @@ input, select, textarea {
 			#header .button.primary {
 				background-color: #ffffff;
 				box-shadow: inset 0 0 0 1px #ffffff !important;
-				color: #fa82b6 !important;
+				color: #0080ff !important;
 			}
 
 				#header input[type="submit"].primary:hover,
@@ -3075,7 +3075,7 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: linear-gradient(45deg, #00ccff, #0080ff);
 			content: '';
 			height: 100%;
 			left: 0;
