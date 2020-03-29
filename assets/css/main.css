@@ -98,7 +98,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #666;
-		font-family: "Microsoft YaHei",-apple-system,"PingFang SC","微软雅黑", Helvetica, sans-serif;
+		font-family: "Microsoft YaHei",-apple-system,"PingFang SC","微软雅黑", Helvetica, sans-serif, "WenQuanYi Micro Hei";
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
@@ -2300,27 +2300,27 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: #00ccff;
 		}
 
 		.icon.style2:before {
-			color: #8addaa;
+			color: #0cea7b;
 		}
 
 		.icon.style3:before {
-			color: #6bd4c8;
+			color: #e257fe;
 		}
 
 		.icon.style4:before {
-			color: #57aed3;
+			color: #fa82b6;
 		}
 
 		.icon.style5:before {
-			color: #4a87d3;
+			color: #ffcc00;
 		}
 
 		.icon.style6:before {
-			color: #6b88e6;
+			color: #ffae00;
 		}
 
 		.icon.major {
@@ -2706,13 +2706,11 @@ input, select, textarea {
 		font-size: 0.9em;
 		font-weight: 400;
 		height: 2.75em;
-		letter-spacing: 0.125em;
 		line-height: 2.75em;
 		padding: 0 2em;
 		text-align: center;
 		text-decoration: none;
 		text-indent: 0.125em;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
