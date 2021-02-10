@@ -2304,23 +2304,23 @@ input, select, textarea {
 		}
 
 		.icon.style2:before {
-			color: #0cea7b;
+			color: #04ed8d;
 		}
 
 		.icon.style3:before {
-			color: #e257fe;
+			color: #FB91FF;
 		}
 
 		.icon.style4:before {
-			color: #fa82b6;
+			color: #FF99BE;
 		}
 
 		.icon.style5:before {
-			color: #ffcc00;
+			color: #fcd80f;
 		}
 
 		.icon.style6:before {
-			color: #ffae00;
+			color: #FFAE57;
 		}
 
 		.icon.major {
@@ -2793,7 +2793,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #00ccff;
+				background-color: #FA4694;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2914,7 +2914,7 @@ input, select, textarea {
 		background-color: #fa529b;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #00ccff 10%, #0080ff 30%, #9e3dfe 60%, #fa4694);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #00ccff 10%, #0080ff 30%, #893fed 60%, #fa4694);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
